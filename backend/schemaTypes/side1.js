@@ -1,5 +1,5 @@
 export default {
-  name: 'inlegg',
+  name: 'side1',
   type: 'document',
   fields: [
     {
@@ -7,7 +7,7 @@ export default {
       type: 'string',
     },
     {
-      name: 'inlegg',
+      name: 'innlegg',
       type: 'string',
     },
   ],

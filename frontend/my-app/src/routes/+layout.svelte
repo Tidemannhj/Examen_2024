@@ -27,7 +27,7 @@
           </div>
         
           <div class="flex w-1/2 sm:items-start sm:justify-around flex-col sm:flex-row ">
-            <a href="" class="flex justify-center items-center underline-offset-4 hover:underline"> Lorem </a> <!-- knapp til side 3 -->
+            <a href="/phishing" class="flex justify-center items-center underline-offset-4 hover:underline"> Lorem </a> <!-- knapp til side 3 -->
             <a href="" class="flex justify-center items-center underline-offset-4 hover:underline "> Lorem </a> <!-- knapp til side 4 -->
           </div>
         </div>
